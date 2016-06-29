@@ -6,7 +6,7 @@ Each resource directory should contain `indes.js`, `create.js`, `update.js` and 
 
 A skeleton can be auto created with Yeoman:
 
-    yo generator lambda-formation:resource
+    yo lambda-formation:resource
 
 ## Structure
 
