@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "aws-sdk": "^2.3.8",
-    "cfn-responder": "^0.1.0",
-    "lambda-formation": "^0.1.1"
+    "lambda-formation": "^0.1.7"
   }
 }
